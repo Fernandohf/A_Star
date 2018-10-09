@@ -37,4 +37,6 @@ The program output is show in the *Labirinto* tab. Here the semi-optimal path ca
 The remaining options and illustrated and commented in the program UI.
 
 ## Gallery
-
+![](https://github.com/Fernandohf/A_Star/blob/master/media/python_2018-10-08_22-17-09.png)
+![](https://github.com/Fernandohf/A_Star/blob/master/media/python_2018-10-08_22-17-24.png)
+![](https://github.com/Fernandohf/A_Star/blob/master/media/python_2018-10-08_22-17-29.png)
